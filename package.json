@@ -1,0 +1,19 @@
+{
+  "name": "bamboo-forest",
+  "version": "0.1.0",
+  "description": "beyo's bamboo forest. The anayanonymous chatting channel.",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beyo-Inc/bamboo-forest.git"
+  },
+  "author": "beyo tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beyo-Inc/bamboo-forest/issues"
+  },
+  "homepage": "https://github.com/Beyo-Inc/bamboo-forest#readme"
+}
